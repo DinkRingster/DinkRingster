@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DinkRingster
 - 👀 I’m interested in using computer science reguarding biology(morphology-anatomy) earth sciences and art.
-- 🌱 I’m currently learning through the odin project website.
+- 🌱 I’m currently learning my foundations using the odin project website.
 - 💞️ I’m looking to collaborate!
 - 📫 How to reach me txt-780 781 1713 email-coltoncahns@gmail.com
 
